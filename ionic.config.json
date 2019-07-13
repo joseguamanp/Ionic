@@ -1,5 +1,7 @@
 {
   "name": "iatm",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
